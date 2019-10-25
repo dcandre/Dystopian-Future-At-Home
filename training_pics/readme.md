@@ -1,0 +1,1 @@
+Place your training pictures (jpg) in this directory.
