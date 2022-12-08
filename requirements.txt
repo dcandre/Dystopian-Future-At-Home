@@ -2,7 +2,7 @@ azure-cognitiveservices-speech==1.7.0
 azure-cognitiveservices-vision-face==0.4.0
 azure-common==1.1.23
 beautifulsoup4==4.8.1
-certifi==2019.9.11
+certifi==2022.12.7
 chardet==3.0.4
 Click==7.0
 future==0.18.1
